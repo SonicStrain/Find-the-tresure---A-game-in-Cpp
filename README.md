@@ -29,12 +29,8 @@ The goal of the game is to lead the player bot to the treasure. If the player bo
 
 ## Game-Board-Overview
 
-|-----|------|-----|
+
+| BOT |      |     |
 |     |      |     |
 |     |      |     |
 |     |      |     |
-|     |      |     |
-|     |      |     |
-|-----|------|-----|
-|     |      |     |
-|-----|------|-----|
