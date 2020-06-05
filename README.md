@@ -27,10 +27,4 @@ There is a AI to autometically solve the game for the player in a efficient way.
 
 The goal of the game is to lead the player bot to the treasure. If the player bot finds the treasure,this is treated as a success. A successful attempt will lead the game to finish. While the player bot and the treasure are merged , a square made of * is formed(of size 4*4).
 
-## Game-Board-Overview
 
-
-| BOT |      |     |
-|     |      |     |
-|     |      |     |
-|     |      |     |
