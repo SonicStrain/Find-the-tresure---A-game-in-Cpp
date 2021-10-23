@@ -19,7 +19,7 @@ The treasure is a fixed element of the game and the position of the treasure is 
 
 ## The-Player-Bot
 
-The player bot is a 'O' shaped element in this game and it is the only movable element in this game. The arrow key i.e. 'UP','DOWN','LEFT' and 'DOWN' keys are used to move the player bot.
+The player bot is a 'O' shaped element in this game and it is the only movable element in this game. The arrow key i.e. 'UP','DOWN','LEFT' and 'RIGHT' keys are used to move the player bot.
 
 The initial position of the player bot is generated randomly and in a way such that the initial positions of the player bot and the Treasure does not collide.
 
