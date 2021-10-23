@@ -25,7 +25,7 @@ The initial position of the player bot is generated randomly and in a way such t
 
 ## The-AI
 
-There is a AI to autometically solve the game for the player in a efficient way. To use the AI press the 'LEFT SHIFT' button while playing. Once pressed the AI will take command of the player bot and will automatically aolve and finish the game.
+There is a AI to autometically solve the game for the player in a efficient way. To use the AI press the 'LEFT SHIFT' button while playing. Once pressed the AI will take control of the player bot and will automatically solve and finish the game.
 
 ## The-Game
 
